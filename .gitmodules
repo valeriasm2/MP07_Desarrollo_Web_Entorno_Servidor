@@ -10,3 +10,6 @@
 [submodule "Exercicis_Fites4_sub"]
 	path = Exercicis_Fites4_sub
 	url = https://github.com/valeriasm2/Exercicis_Fites4.git
+[submodule "Exercicis_Fites4"]
+	path = Exercicis_Fites4
+	url = https://github.com/valeriasm2/Exercicis_Fites4.git
