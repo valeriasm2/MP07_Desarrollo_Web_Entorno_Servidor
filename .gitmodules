@@ -1,0 +1,9 @@
+[submodule "Exercicis_Fites1"]
+	path = Exercicis_Fites1
+	url = https://github.com/valeriasm2/Exercicis_Fites1.git
+[submodule "Exercicis_Fites2"]
+	path = Exercicis_Fites2
+	url = https://github.com/valeriasm2/Exercicis_Fites2.git
+[submodule "Exercicis_Fites3"]
+	path = Exercicis_Fites3
+	url = https://github.com/valeriasm2/Exercicis-Fites3.git
