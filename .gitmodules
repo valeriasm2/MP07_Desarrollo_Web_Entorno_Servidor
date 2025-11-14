@@ -10,3 +10,6 @@
 [submodule "Exercicis_Fites4"]
 	path = Exercicis_Fites4
 	url = https://github.com/valeriasm2/Exercicis_Fites4.git
+[submodule "UF3/UF3_BASE_DE_DATOS"]
+	path = UF3/UF3_BASE_DE_DATOS
+	url = https://github.com/valeriasm2/UF3_BASE_DE_DATOS.git
